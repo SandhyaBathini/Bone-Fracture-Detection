@@ -1,4 +1,16 @@
 # Bone-Fracture-Detection
+⚠ *Important Note:*  
+Due to file size and upload restrictions, the files in this repository are a cloned version of a similar project.  
+My own project followed the same methodology using X-ray images and normal images for fracture classification.  
+
+This repository is shared to demonstrate the approach, workflow, and techniques I have implemented in my original project.
+
+## Key Concepts Demonstrated
+- Machine Learning for medical image classification
+- Image preprocessing and augmentation
+- Model training, evaluation, and performance metrics
+
+  
 ## Introduction
  Since long ago, bone fractures was a long standing issue for mankind, and it's classification via x-ray has always depended on human diagnostics – which may be sometimes flawed.
 In recent years, Machine learning and AI based solutions have become an integral part of our lives, in all aspects, as well as in the medical field.
